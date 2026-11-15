@@ -1,0 +1,52 @@
+from,period,to,tiv_total
+China,2000-2013,Pakistan,5000
+China,2000-2013,Bangladesh,1021
+China,2000-2013,Myanmar,986
+China,2000-2013,Iran,716
+China,2000-2013,Sudan,435
+China,2014-2021,Pakistan,4806
+China,2014-2021,Bangladesh,1890
+China,2014-2021,Algeria,1017
+China,2014-2021,Myanmar,821
+China,2014-2021,Thailand,391
+China,2022-2025,Pakistan,4300
+China,2022-2025,Serbia,585
+China,2022-2025,Thailand,372
+China,2022-2025,Algeria,354
+China,2022-2025,Bangladesh,282
+Iran,2000-2013,Syria,391
+Iran,2000-2013,Sudan,42
+Iran,2000-2013,Hezbollah (Lebanon)*,26
+Iran,2014-2021,Houthi rebels (Yemen)*,47
+Iran,2014-2021,Iraq,42
+Iran,2014-2021,Syria,30
+Iran,2014-2021,Sudan,6
+Iran,2014-2021,Ethiopia,0
+Iran,2022-2025,Russia,297
+Iran,2022-2025,Venezuela,68
+Iran,2022-2025,Houthi rebels (Yemen)*,35
+Iran,2022-2025,Belarus,1
+Iran,2022-2025,Hezbollah (Lebanon)*,1
+Iran,2022-2025,Sudan,1
+North Korea,2000-2013,Iran,257
+North Korea,2000-2013,Syria,175
+North Korea,2000-2013,Yemen,57
+North Korea,2000-2013,Myanmar,15
+North Korea,2014-2021,Hamas (Palestine)*,0
+North Korea,2014-2021,PRC (Israel/Palestine)*,0
+North Korea,2022-2025,Russia,264
+Russia,2000-2013,India,25442
+Russia,2000-2013,China,24237
+Russia,2000-2013,Algeria,7066
+Russia,2000-2013,Venezuela,3808
+Russia,2000-2013,Viet Nam,3066
+Russia,2014-2021,India,11447
+Russia,2014-2021,China,7493
+Russia,2014-2021,Algeria,5117
+Russia,2014-2021,Viet Nam,3559
+Russia,2014-2021,Egypt,3532
+Russia,2022-2025,India,3744
+Russia,2022-2025,Belarus,1257
+Russia,2022-2025,China,881
+Russia,2022-2025,Kazakhstan,703
+Russia,2022-2025,Algeria,434

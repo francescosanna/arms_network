@@ -1,0 +1,1203 @@
+from,to,year,tiv,actor_type
+China,Pakistan,2000,69,state
+China,Pakistan,2001,298,state
+China,Pakistan,2002,286,state
+China,Pakistan,2003,267,state
+China,Pakistan,2004,76,state
+China,Pakistan,2005,77,state
+China,Pakistan,2006,95,state
+China,Pakistan,2007,142,state
+China,Pakistan,2008,247,state
+China,Pakistan,2009,748,state
+China,Pakistan,2010,748,state
+China,Pakistan,2011,624,state
+China,Pakistan,2012,594,state
+China,Pakistan,2013,729,state
+China,Pakistan,2014,484,state
+China,Pakistan,2015,559,state
+China,Pakistan,2016,735,state
+China,Pakistan,2017,684,state
+China,Pakistan,2018,500,state
+China,Pakistan,2019,526,state
+China,Pakistan,2020,407,state
+China,Pakistan,2021,911,state
+China,Pakistan,2022,1322,state
+China,Pakistan,2023,1807,state
+China,Pakistan,2024,726,state
+China,Pakistan,2025,445,state
+China,Bangladesh,2000,11,state
+China,Bangladesh,2001,2,state
+China,Bangladesh,2004,7,state
+China,Bangladesh,2005,1,state
+China,Bangladesh,2006,184,state
+China,Bangladesh,2007,60,state
+China,Bangladesh,2008,9,state
+China,Bangladesh,2010,13,state
+China,Bangladesh,2011,85,state
+China,Bangladesh,2012,163,state
+China,Bangladesh,2013,486,state
+China,Bangladesh,2014,204,state
+China,Bangladesh,2015,449,state
+China,Bangladesh,2016,267,state
+China,Bangladesh,2017,208,state
+China,Bangladesh,2018,95,state
+China,Bangladesh,2019,638,state
+China,Bangladesh,2020,27,state
+China,Bangladesh,2021,2,state
+China,Bangladesh,2022,228,state
+China,Bangladesh,2023,14,state
+China,Bangladesh,2024,40,state
+China,Myanmar,2000,3,state
+China,Myanmar,2001,50,state
+China,Myanmar,2002,9,state
+China,Myanmar,2003,57,state
+China,Myanmar,2004,72,state
+China,Myanmar,2005,20,state
+China,Myanmar,2006,12,state
+China,Myanmar,2007,4,state
+China,Myanmar,2008,13,state
+China,Myanmar,2009,19,state
+China,Myanmar,2010,5,state
+China,Myanmar,2011,277,state
+China,Myanmar,2012,254,state
+China,Myanmar,2013,191,state
+China,Myanmar,2014,71,state
+China,Myanmar,2015,192,state
+China,Myanmar,2016,216,state
+China,Myanmar,2017,113,state
+China,Myanmar,2018,109,state
+China,Myanmar,2019,60,state
+China,Myanmar,2020,4,state
+China,Myanmar,2021,56,state
+China,Myanmar,2022,102,state
+China,Myanmar,2023,4,state
+China,Myanmar,2024,90,state
+China,Myanmar,2025,46,state
+China,Algeria,2000,10,state
+China,Algeria,2001,11,state
+China,Algeria,2002,14,state
+China,Algeria,2006,66,state
+China,Algeria,2010,18,state
+China,Algeria,2014,155,state
+China,Algeria,2015,243,state
+China,Algeria,2016,495,state
+China,Algeria,2017,43,state
+China,Algeria,2018,54,state
+China,Algeria,2019,24,state
+China,Algeria,2020,3,state
+China,Algeria,2022,138,state
+China,Algeria,2023,186,state
+China,Algeria,2024,30,state
+China,Thailand,2000,21,state
+China,Thailand,2005,63,state
+China,Thailand,2006,63,state
+China,Thailand,2009,11,state
+China,Thailand,2011,4,state
+China,Thailand,2012,18,state
+China,Thailand,2013,27,state
+China,Thailand,2014,7,state
+China,Thailand,2015,1,state
+China,Thailand,2016,78,state
+China,Thailand,2017,122,state
+China,Thailand,2018,52,state
+China,Thailand,2019,96,state
+China,Thailand,2020,6,state
+China,Thailand,2021,29,state
+China,Thailand,2022,177,state
+China,Thailand,2023,195,state
+China,Iran,2000,64,state
+China,Iran,2001,75,state
+China,Iran,2002,76,state
+China,Iran,2003,79,state
+China,Iran,2004,75,state
+China,Iran,2005,38,state
+China,Iran,2006,49,state
+China,Iran,2007,41,state
+China,Iran,2008,42,state
+China,Iran,2009,42,state
+China,Iran,2010,52,state
+China,Iran,2011,45,state
+China,Iran,2012,28,state
+China,Iran,2013,10,state
+China,Iran,2014,10,state
+China,Iran,2015,7,state
+China,Venezuela,2006,14,state
+China,Venezuela,2007,27,state
+China,Venezuela,2008,41,state
+China,Venezuela,2009,54,state
+China,Venezuela,2010,89,state
+China,Venezuela,2011,8,state
+China,Venezuela,2012,51,state
+China,Venezuela,2013,97,state
+China,Venezuela,2014,78,state
+China,Venezuela,2015,113,state
+China,Venezuela,2016,76,state
+China,Venezuela,2023,30,state
+China,Sudan,2001,3,state
+China,Sudan,2002,16,state
+China,Sudan,2003,97,state
+China,Sudan,2004,16,state
+China,Sudan,2005,18,state
+China,Sudan,2006,63,state
+China,Sudan,2007,28,state
+China,Sudan,2008,21,state
+China,Sudan,2009,19,state
+China,Sudan,2010,30,state
+China,Sudan,2011,32,state
+China,Sudan,2012,47,state
+China,Sudan,2013,45,state
+China,Sudan,2014,39,state
+China,Sudan,2015,44,state
+China,Sudan,2016,18,state
+China,Sudan,2017,41,state
+China,Sudan,2018,32,state
+China,Serbia,2020,7,state
+China,Serbia,2022,157,state
+China,Serbia,2023,278,state
+China,Serbia,2024,75,state
+China,Serbia,2025,75,state
+China,Nigeria,2010,190,state
+China,Nigeria,2014,69,state
+China,Nigeria,2015,28,state
+China,Nigeria,2016,37,state
+China,Nigeria,2020,48,state
+China,Nigeria,2021,90,state
+China,Nigeria,2022,35,state
+China,Nigeria,2023,25,state
+China,Nigeria,2024,3,state
+China,Morocco,2010,227,state
+China,Morocco,2011,34,state
+China,Morocco,2012,34,state
+China,Morocco,2017,120,state
+China,Morocco,2018,75,state
+China,Morocco,2021,2,state
+China,Morocco,2022,6,state
+China,Morocco,2023,4,state
+China,Egypt,2001,18,state
+China,Egypt,2002,67,state
+China,Egypt,2003,88,state
+China,Egypt,2004,88,state
+China,Egypt,2005,21,state
+China,Egypt,2007,35,state
+China,Egypt,2008,35,state
+China,Egypt,2009,35,state
+China,Egypt,2010,35,state
+China,Egypt,2012,1,state
+China,Egypt,2013,1,state
+China,Egypt,2014,1,state
+China,Egypt,2016,9,state
+China,Egypt,2017,16,state
+China,Egypt,2018,16,state
+China,Tanzania,2002,1,state
+China,Tanzania,2003,46,state
+China,Tanzania,2006,0,state
+China,Tanzania,2007,0,state
+China,Tanzania,2009,25,state
+China,Tanzania,2011,76,state
+China,Tanzania,2012,114,state
+China,Tanzania,2013,130,state
+China,Tanzania,2014,14,state
+China,Tanzania,2015,20,state
+China,Tanzania,2017,2,state
+China,Tanzania,2021,29,state
+China,Saudi Arabia,2008,36,state
+China,Saudi Arabia,2009,36,state
+China,Saudi Arabia,2015,35,state
+China,Saudi Arabia,2016,35,state
+China,Saudi Arabia,2017,55,state
+China,Saudi Arabia,2018,76,state
+China,Saudi Arabia,2019,40,state
+China,Saudi Arabia,2020,40,state
+China,Saudi Arabia,2021,65,state
+China,Saudi Arabia,2022,20,state
+China,Sri Lanka,2000,28,state
+China,Sri Lanka,2001,22,state
+China,Sri Lanka,2002,4,state
+China,Sri Lanka,2003,9,state
+China,Sri Lanka,2004,19,state
+China,Sri Lanka,2005,29,state
+China,Sri Lanka,2006,50,state
+China,Sri Lanka,2007,49,state
+China,Sri Lanka,2008,67,state
+China,Sri Lanka,2010,5,state
+China,Sri Lanka,2018,1,state
+China,Sri Lanka,2019,59,state
+China,Sri Lanka,2023,5,state
+China,Indonesia,2006,10,state
+China,Indonesia,2007,3,state
+China,Indonesia,2008,3,state
+China,Indonesia,2010,2,state
+China,Indonesia,2011,8,state
+China,Indonesia,2012,10,state
+China,Indonesia,2013,74,state
+China,Indonesia,2014,34,state
+China,Indonesia,2015,32,state
+China,Indonesia,2016,37,state
+China,Indonesia,2017,34,state
+China,Indonesia,2018,10,state
+China,Indonesia,2019,14,state
+China,Indonesia,2020,17,state
+China,Indonesia,2021,2,state
+China,Indonesia,2024,5,state
+China,Turkiye,2000,10,state
+China,Turkiye,2002,7,state
+China,Turkiye,2003,7,state
+China,Turkiye,2004,14,state
+China,Turkiye,2005,14,state
+China,Turkiye,2006,27,state
+China,Turkiye,2007,34,state
+China,Turkiye,2008,34,state
+China,Turkiye,2009,34,state
+China,Turkiye,2010,34,state
+China,Turkiye,2011,34,state
+China,Turkiye,2012,34,state
+China,Namibia,2001,14,state
+China,Namibia,2006,75,state
+China,Namibia,2008,25,state
+China,Namibia,2009,5,state
+China,Namibia,2012,52,state
+China,Namibia,2013,9,state
+China,Namibia,2016,3,state
+China,Namibia,2017,34,state
+China,Namibia,2024,54,state
+China,Namibia,2025,0,state
+China,Turkmenistan,2016,228,state
+China,Turkmenistan,2017,16,state
+China,Cambodia,2007,56,state
+China,Cambodia,2009,4,state
+China,Cambodia,2012,16,state
+China,Cambodia,2013,39,state
+China,Cambodia,2018,2,state
+China,Cambodia,2019,1,state
+China,Cambodia,2021,29,state
+China,Cambodia,2022,38,state
+China,Cambodia,2023,56,state
+China,Mauritania,2002,17,state
+China,Mauritania,2003,7,state
+China,Mauritania,2010,7,state
+China,Mauritania,2016,34,state
+China,Mauritania,2019,25,state
+China,Mauritania,2023,2,state
+China,Mauritania,2024,124,state
+China,Cameroon,2012,9,state
+China,Cameroon,2013,119,state
+China,Cameroon,2014,85,state
+China,Uzbekistan,2014,16,state
+China,Uzbekistan,2018,117,state
+China,Uzbekistan,2024,47,state
+China,Uzbekistan,2025,32,state
+China,Zambia,2000,39,state
+China,Zambia,2006,24,state
+China,Zambia,2007,5,state
+China,Zambia,2008,2,state
+China,Zambia,2012,51,state
+China,Zambia,2016,33,state
+China,Zambia,2017,33,state
+China,Zambia,2020,2,state
+China,United Arab Emirates,2013,15,state
+China,United Arab Emirates,2014,15,state
+China,United Arab Emirates,2015,15,state
+China,United Arab Emirates,2016,15,state
+China,United Arab Emirates,2017,37,state
+China,United Arab Emirates,2018,46,state
+China,United Arab Emirates,2019,12,state
+China,United Arab Emirates,2020,19,state
+China,Ethiopia,2012,2,state
+China,Ethiopia,2013,50,state
+China,Ethiopia,2014,2,state
+China,Ethiopia,2018,4,state
+China,Ethiopia,2019,4,state
+China,Ethiopia,2020,25,state
+China,Ethiopia,2021,6,state
+China,Ethiopia,2022,43,state
+China,Azerbaijan,2025,130,state
+China,Ghana,2001,2,state
+China,Ghana,2004,2,state
+China,Ghana,2007,14,state
+China,Ghana,2009,6,state
+China,Ghana,2010,2,state
+China,Ghana,2011,56,state
+China,Ghana,2013,22,state
+China,Ghana,2015,13,state
+China,Ghana,2016,8,state
+China,Ghana,2023,2,state
+China,Qatar,2017,31,state
+China,Qatar,2018,94,state
+China,Laos,2008,7,state
+China,Laos,2012,16,state
+China,Laos,2013,16,state
+China,Laos,2015,1,state
+China,Laos,2017,2,state
+China,Laos,2018,66,state
+China,Laos,2019,9,state
+China,Laos,2023,3,state
+China,Malaysia,2009,5,state
+China,Malaysia,2019,28,state
+China,Malaysia,2021,55,state
+China,Malaysia,2022,28,state
+China,Iraq,2004,20,state
+China,Iraq,2015,43,state
+China,Iraq,2016,43,state
+China,Iraq,2024,8,state
+China,Kuwait,2000,34,state
+China,Kuwait,2001,17,state
+China,Kuwait,2002,22,state
+China,Kuwait,2003,23,state
+China,Chad,2007,5,state
+China,Chad,2008,2,state
+China,Chad,2010,16,state
+China,Chad,2013,39,state
+China,Chad,2021,25,state
+China,Chad,2025,4,state
+China,Jordan,2005,38,state
+China,Jordan,2010,2,state
+China,Jordan,2014,1,state
+China,Jordan,2016,24,state
+China,Jordan,2023,11,state
+China,Jordan,2024,11,state
+China,Tajikistan,2018,3,state
+China,Tajikistan,2019,1,state
+China,Tajikistan,2025,75,state
+China,Syria,2009,56,state
+China,Syria,2010,15,state
+China,Syria,2014,5,state
+China,Zimbabwe,2004,14,state
+China,Zimbabwe,2005,21,state
+China,Zimbabwe,2006,21,state
+China,Zimbabwe,2023,20,state
+China,Angola,2016,15,state
+China,Angola,2019,16,state
+China,Angola,2020,42,state
+China,Kenya,2000,15,state
+China,Kenya,2007,11,state
+China,Kenya,2010,13,state
+China,Kenya,2014,7,state
+China,Kenya,2015,10,state
+China,Kenya,2016,13,state
+China,Kenya,2018,1,state
+China,Burkina Faso,2024,31,state
+China,Burkina Faso,2025,34,state
+China,Mali,2000,7,state
+China,Mali,2017,5,state
+China,Mali,2021,2,state
+China,Mali,2023,17,state
+China,Mali,2025,32,state
+China,Equatorial Guinea,2009,36,state
+China,Equatorial Guinea,2018,13,state
+China,Equatorial Guinea,2021,0,state
+China,Equatorial Guinea,2024,12,state
+China,Bolivia,2003,5,state
+China,Bolivia,2011,21,state
+China,Bolivia,2014,20,state
+China,Bolivia,2016,5,state
+China,Bolivia,2018,2,state
+China,Rwanda,2007,8,state
+China,Rwanda,2008,3,state
+China,Rwanda,2017,1,state
+China,Rwanda,2018,3,state
+China,Rwanda,2023,37,state
+China,Senegal,2016,16,state
+China,Senegal,2017,21,state
+China,Senegal,2023,7,state
+China,Senegal,2024,1,state
+China,Djibouti,2014,8,state
+China,Djibouti,2015,4,state
+China,Djibouti,2016,5,state
+China,Djibouti,2019,4,state
+China,Djibouti,2021,24,state
+China,Gabon,2004,7,state
+China,Gabon,2006,1,state
+China,Gabon,2019,25,state
+China,Gabon,2021,2,state
+China,Gabon,2024,5,state
+China,DR Congo,2015,2,state
+China,DR Congo,2023,12,state
+China,DR Congo,2024,24,state
+China,Russia,2018,10,state
+China,Russia,2019,5,state
+China,Russia,2021,5,state
+China,Russia,2022,5,state
+China,Russia,2023,6,state
+China,Russia,2025,5,state
+China,Cote d'Ivoire,2017,4,state
+China,Cote d'Ivoire,2022,6,state
+China,Cote d'Ivoire,2023,17,state
+China,Nepal,2005,2,state
+China,Nepal,2016,9,state
+China,Nepal,2017,1,state
+China,Nepal,2019,15,state
+China,Nepal,2021,0,state
+China,Oman,2002,4,state
+China,Oman,2003,18,state
+China,Peru,2009,1,state
+China,Peru,2010,1,state
+China,Peru,2015,16,state
+China,Timor-Leste,2010,18,state
+China,Trinidad and Tobago,2015,16,state
+China,Malawi,2022,16,state
+China,Seychelles,2011,5,state
+China,Seychelles,2014,10,state
+China,African Union**,2018,4,int_org
+China,African Union**,2021,3,int_org
+China,African Union**,2023,6,int_org
+China,Uganda,2008,14,state
+China,Uganda,2021,1,state
+China,Sierra Leone,2006,9,state
+China,Sierra Leone,2011,2,state
+China,Sierra Leone,2015,1,state
+China,Sierra Leone,2016,2,state
+China,Slovakia,2017,13,state
+China,Kazakhstan,2016,11,state
+China,Kazakhstan,2025,2,state
+China,South Sudan,2014,12,state
+China,Mozambique,2014,4,state
+China,Mozambique,2016,3,state
+China,Mozambique,2018,3,state
+China,Congo,2006,1,state
+China,Congo,2007,0,state
+China,Congo,2009,1,state
+China,Congo,2024,9,state
+China,Bahrain,2016,9,state
+China,Ecuador,2006,0,state
+China,Ecuador,2010,8,state
+China,Mexico,2006,6,state
+China,Burundi,2012,5,state
+China,Belarus,2016,3,state
+China,Belarus,2017,1,state
+China,Belarus,2018,1,state
+China,Belarus,2025,0,state
+China,Niger,2009,1,state
+China,Niger,2017,3,state
+China,Benin,2010,0,state
+China,Benin,2022,3,state
+China,Benin,2024,0,state
+China,Guyana,2002,3,state
+China,Australia,2021,2,state
+China,Central African Republic,2018,2,state
+China,Central African Republic,2021,1,state
+China,United Wa State (Myanmar)*,2014,2,non_state
+China,Somalia,2017,2,state
+China,Afghanistan,2017,2,state
+China,Argentina,2010,1,state
+China,Guinea,2010,1,state
+China,Guinea,2021,1,state
+China,Papua New Guinea,2017,0,state
+China,Bahamas,2017,0,state
+Russia,India,2000,651,state
+Russia,India,2001,798,state
+Russia,India,2002,1671,state
+Russia,India,2003,2159,state
+Russia,India,2004,1498,state
+Russia,India,2005,689,state
+Russia,India,2006,928,state
+Russia,India,2007,1773,state
+Russia,India,2008,1326,state
+Russia,India,2009,1446,state
+Russia,India,2010,2289,state
+Russia,India,2011,2508,state
+Russia,India,2012,3916,state
+Russia,India,2013,3790,state
+Russia,India,2014,1639,state
+Russia,India,2015,1844,state
+Russia,India,2016,1764,state
+Russia,India,2017,1334,state
+Russia,India,2018,1215,state
+Russia,India,2019,1219,state
+Russia,India,2020,1165,state
+Russia,India,2021,1267,state
+Russia,India,2022,1137,state
+Russia,India,2023,498,state
+Russia,India,2024,897,state
+Russia,India,2025,1212,state
+Russia,China,2000,2205,state
+Russia,China,2001,2463,state
+Russia,China,2002,2519,state
+Russia,China,2003,2083,state
+Russia,China,2004,2903,state
+Russia,China,2005,3076,state
+Russia,China,2006,2455,state
+Russia,China,2007,1370,state
+Russia,China,2008,1453,state
+Russia,China,2009,1098,state
+Russia,China,2010,653,state
+Russia,China,2011,741,state
+Russia,China,2012,587,state
+Russia,China,2013,631,state
+Russia,China,2014,561,state
+Russia,China,2015,726,state
+Russia,China,2016,742,state
+Russia,China,2017,1222,state
+Russia,China,2018,1906,state
+Russia,China,2019,1322,state
+Russia,China,2020,547,state
+Russia,China,2021,467,state
+Russia,China,2022,499,state
+Russia,China,2023,327,state
+Russia,China,2024,30,state
+Russia,China,2025,25,state
+Russia,Algeria,2000,243,state
+Russia,Algeria,2001,379,state
+Russia,Algeria,2002,101,state
+Russia,Algeria,2003,154,state
+Russia,Algeria,2004,246,state
+Russia,Algeria,2005,92,state
+Russia,Algeria,2006,202,state
+Russia,Algeria,2007,503,state
+Russia,Algeria,2008,1503,state
+Russia,Algeria,2009,1015,state
+Russia,Algeria,2010,686,state
+Russia,Algeria,2011,988,state
+Russia,Algeria,2012,650,state
+Russia,Algeria,2013,304,state
+Russia,Algeria,2014,313,state
+Russia,Algeria,2015,545,state
+Russia,Algeria,2016,1592,state
+Russia,Algeria,2017,1005,state
+Russia,Algeria,2018,1136,state
+Russia,Algeria,2020,449,state
+Russia,Algeria,2021,77,state
+Russia,Algeria,2022,172,state
+Russia,Algeria,2023,115,state
+Russia,Algeria,2024,87,state
+Russia,Algeria,2025,60,state
+Russia,Viet Nam,2000,2,state
+Russia,Viet Nam,2001,91,state
+Russia,Viet Nam,2002,54,state
+Russia,Viet Nam,2003,2,state
+Russia,Viet Nam,2004,299,state
+Russia,Viet Nam,2005,164,state
+Russia,Viet Nam,2006,16,state
+Russia,Viet Nam,2007,2,state
+Russia,Viet Nam,2008,169,state
+Russia,Viet Nam,2009,55,state
+Russia,Viet Nam,2010,160,state
+Russia,Viet Nam,2011,979,state
+Russia,Viet Nam,2012,762,state
+Russia,Viet Nam,2013,311,state
+Russia,Viet Nam,2014,1070,state
+Russia,Viet Nam,2015,751,state
+Russia,Viet Nam,2016,719,state
+Russia,Viet Nam,2017,465,state
+Russia,Viet Nam,2018,333,state
+Russia,Viet Nam,2019,143,state
+Russia,Viet Nam,2020,15,state
+Russia,Viet Nam,2021,63,state
+Russia,Viet Nam,2022,63,state
+Russia,Egypt,2002,60,state
+Russia,Egypt,2003,60,state
+Russia,Egypt,2004,60,state
+Russia,Egypt,2005,154,state
+Russia,Egypt,2006,60,state
+Russia,Egypt,2007,75,state
+Russia,Egypt,2009,8,state
+Russia,Egypt,2010,369,state
+Russia,Egypt,2011,437,state
+Russia,Egypt,2012,73,state
+Russia,Egypt,2013,29,state
+Russia,Egypt,2014,110,state
+Russia,Egypt,2015,5,state
+Russia,Egypt,2016,176,state
+Russia,Egypt,2017,1262,state
+Russia,Egypt,2018,855,state
+Russia,Egypt,2019,696,state
+Russia,Egypt,2020,428,state
+Russia,Venezuela,2006,356,state
+Russia,Venezuela,2007,743,state
+Russia,Venezuela,2008,700,state
+Russia,Venezuela,2009,260,state
+Russia,Venezuela,2010,60,state
+Russia,Venezuela,2011,271,state
+Russia,Venezuela,2012,523,state
+Russia,Venezuela,2013,895,state
+Russia,Venezuela,2014,79,state
+Russia,Kazakhstan,2000,121,state
+Russia,Kazakhstan,2001,136,state
+Russia,Kazakhstan,2002,22,state
+Russia,Kazakhstan,2004,31,state
+Russia,Kazakhstan,2005,40,state
+Russia,Kazakhstan,2006,29,state
+Russia,Kazakhstan,2007,72,state
+Russia,Kazakhstan,2008,8,state
+Russia,Kazakhstan,2009,20,state
+Russia,Kazakhstan,2010,51,state
+Russia,Kazakhstan,2011,47,state
+Russia,Kazakhstan,2012,77,state
+Russia,Kazakhstan,2013,56,state
+Russia,Kazakhstan,2014,29,state
+Russia,Kazakhstan,2015,443,state
+Russia,Kazakhstan,2016,199,state
+Russia,Kazakhstan,2017,163,state
+Russia,Kazakhstan,2018,267,state
+Russia,Kazakhstan,2019,220,state
+Russia,Kazakhstan,2020,266,state
+Russia,Kazakhstan,2021,195,state
+Russia,Kazakhstan,2022,188,state
+Russia,Kazakhstan,2023,185,state
+Russia,Kazakhstan,2024,330,state
+Russia,Belarus,2006,116,state
+Russia,Belarus,2011,75,state
+Russia,Belarus,2012,75,state
+Russia,Belarus,2013,75,state
+Russia,Belarus,2014,66,state
+Russia,Belarus,2015,89,state
+Russia,Belarus,2016,117,state
+Russia,Belarus,2017,158,state
+Russia,Belarus,2018,141,state
+Russia,Belarus,2019,333,state
+Russia,Belarus,2020,13,state
+Russia,Belarus,2021,69,state
+Russia,Belarus,2022,215,state
+Russia,Belarus,2023,178,state
+Russia,Belarus,2024,398,state
+Russia,Belarus,2025,466,state
+Russia,Syria,2000,9,state
+Russia,Syria,2001,8,state
+Russia,Syria,2002,25,state
+Russia,Syria,2003,25,state
+Russia,Syria,2004,5,state
+Russia,Syria,2005,15,state
+Russia,Syria,2006,26,state
+Russia,Syria,2008,62,state
+Russia,Syria,2009,85,state
+Russia,Syria,2010,353,state
+Russia,Syria,2011,410,state
+Russia,Syria,2012,498,state
+Russia,Syria,2013,498,state
+Russia,Syria,2014,2,state
+Russia,Syria,2015,16,state
+Russia,Syria,2016,3,state
+Russia,Syria,2017,37,state
+Russia,Syria,2018,199,state
+Russia,Syria,2019,104,state
+Russia,Syria,2020,80,state
+Russia,Syria,2021,7,state
+Russia,Iraq,2006,73,state
+Russia,Iraq,2007,29,state
+Russia,Iraq,2008,102,state
+Russia,Iraq,2010,73,state
+Russia,Iraq,2011,87,state
+Russia,Iraq,2013,51,state
+Russia,Iraq,2014,334,state
+Russia,Iraq,2015,474,state
+Russia,Iraq,2016,353,state
+Russia,Iraq,2017,173,state
+Russia,Iraq,2018,427,state
+Russia,Iraq,2019,128,state
+Russia,Azerbaijan,2007,68,state
+Russia,Azerbaijan,2008,18,state
+Russia,Azerbaijan,2009,2,state
+Russia,Azerbaijan,2010,101,state
+Russia,Azerbaijan,2011,485,state
+Russia,Azerbaijan,2012,270,state
+Russia,Azerbaijan,2013,316,state
+Russia,Azerbaijan,2014,565,state
+Russia,Azerbaijan,2015,215,state
+Russia,Azerbaijan,2016,7,state
+Russia,Azerbaijan,2017,109,state
+Russia,Azerbaijan,2018,53,state
+Russia,Iran,2000,342,state
+Russia,Iran,2001,307,state
+Russia,Iran,2002,97,state
+Russia,Iran,2003,90,state
+Russia,Iran,2004,15,state
+Russia,Iran,2005,15,state
+Russia,Iran,2006,369,state
+Russia,Iran,2007,284,state
+Russia,Iran,2008,15,state
+Russia,Iran,2009,50,state
+Russia,Iran,2010,36,state
+Russia,Iran,2011,30,state
+Russia,Iran,2012,12,state
+Russia,Iran,2013,4,state
+Russia,Iran,2014,4,state
+Russia,Iran,2015,4,state
+Russia,Iran,2016,413,state
+Russia,Iran,2017,3,state
+Russia,Iran,2018,3,state
+Russia,Iran,2019,3,state
+Russia,Iran,2020,2,state
+Russia,Iran,2023,21,state
+Russia,Iran,2024,42,state
+Russia,Myanmar,2001,86,state
+Russia,Myanmar,2002,133,state
+Russia,Myanmar,2004,120,state
+Russia,Myanmar,2005,159,state
+Russia,Myanmar,2006,180,state
+Russia,Myanmar,2007,127,state
+Russia,Myanmar,2008,14,state
+Russia,Myanmar,2009,14,state
+Russia,Myanmar,2010,47,state
+Russia,Myanmar,2011,382,state
+Russia,Myanmar,2012,144,state
+Russia,Myanmar,2013,55,state
+Russia,Myanmar,2014,28,state
+Russia,Myanmar,2015,12,state
+Russia,Myanmar,2017,69,state
+Russia,Myanmar,2018,72,state
+Russia,Myanmar,2019,31,state
+Russia,Myanmar,2020,64,state
+Russia,Myanmar,2022,111,state
+Russia,Myanmar,2023,110,state
+Russia,Myanmar,2024,132,state
+Russia,Myanmar,2025,24,state
+Russia,Malaysia,2001,1,state
+Russia,Malaysia,2002,46,state
+Russia,Malaysia,2003,16,state
+Russia,Malaysia,2007,393,state
+Russia,Malaysia,2008,394,state
+Russia,Malaysia,2009,394,state
+Russia,Malaysia,2010,0,state
+Russia,Malaysia,2012,3,state
+Russia,Malaysia,2013,15,state
+Russia,Yemen,2000,53,state
+Russia,Yemen,2001,14,state
+Russia,Yemen,2002,524,state
+Russia,Yemen,2003,18,state
+Russia,Yemen,2004,230,state
+Russia,Yemen,2005,246,state
+Russia,Yemen,2010,90,state
+Russia,Indonesia,2002,11,state
+Russia,Indonesia,2003,230,state
+Russia,Indonesia,2004,29,state
+Russia,Indonesia,2008,44,state
+Russia,Indonesia,2009,165,state
+Russia,Indonesia,2010,188,state
+Russia,Indonesia,2011,63,state
+Russia,Indonesia,2012,20,state
+Russia,Indonesia,2013,357,state
+Russia,Indonesia,2014,56,state
+Russia,United Arab Emirates,2000,45,state
+Russia,United Arab Emirates,2008,1,state
+Russia,United Arab Emirates,2009,149,state
+Russia,United Arab Emirates,2010,324,state
+Russia,United Arab Emirates,2011,126,state
+Russia,United Arab Emirates,2012,126,state
+Russia,United Arab Emirates,2013,126,state
+Russia,United Arab Emirates,2018,40,state
+Russia,United Arab Emirates,2019,80,state
+Russia,United Arab Emirates,2020,80,state
+Russia,Sudan,2001,91,state
+Russia,Sudan,2002,31,state
+Russia,Sudan,2003,86,state
+Russia,Sudan,2004,278,state
+Russia,Sudan,2005,93,state
+Russia,Sudan,2006,22,state
+Russia,Sudan,2007,22,state
+Russia,Sudan,2008,23,state
+Russia,Sudan,2009,32,state
+Russia,Sudan,2010,68,state
+Russia,Sudan,2011,72,state
+Russia,Sudan,2012,48,state
+Russia,Sudan,2015,53,state
+Russia,Sudan,2016,53,state
+Russia,Sudan,2017,24,state
+Russia,Sudan,2018,0,state
+Russia,Pakistan,2002,106,state
+Russia,Pakistan,2004,87,state
+Russia,Pakistan,2007,7,state
+Russia,Pakistan,2008,18,state
+Russia,Pakistan,2009,7,state
+Russia,Pakistan,2010,26,state
+Russia,Pakistan,2011,29,state
+Russia,Pakistan,2012,29,state
+Russia,Pakistan,2013,29,state
+Russia,Pakistan,2014,29,state
+Russia,Pakistan,2015,37,state
+Russia,Pakistan,2016,43,state
+Russia,Pakistan,2017,37,state
+Russia,Pakistan,2018,79,state
+Russia,Pakistan,2019,60,state
+Russia,Pakistan,2020,37,state
+Russia,Pakistan,2021,7,state
+Russia,Pakistan,2023,26,state
+Russia,Pakistan,2024,26,state
+Russia,Pakistan,2025,2,state
+Russia,Uganda,2004,18,state
+Russia,Uganda,2009,14,state
+Russia,Uganda,2011,439,state
+Russia,Uganda,2012,148,state
+Russia,Uganda,2013,20,state
+Russia,Uganda,2022,49,state
+Russia,Uganda,2023,16,state
+Russia,Uganda,2025,1,state
+Russia,Ethiopia,2000,64,state
+Russia,Ethiopia,2003,174,state
+Russia,Ethiopia,2004,230,state
+Russia,Ethiopia,2010,58,state
+Russia,Ethiopia,2019,69,state
+Russia,Ethiopia,2024,38,state
+Russia,Ethiopia,2025,63,state
+Russia,Bangladesh,2000,119,state
+Russia,Bangladesh,2001,39,state
+Russia,Bangladesh,2002,14,state
+Russia,Bangladesh,2006,21,state
+Russia,Bangladesh,2007,22,state
+Russia,Bangladesh,2011,28,state
+Russia,Bangladesh,2012,22,state
+Russia,Bangladesh,2013,50,state
+Russia,Bangladesh,2015,78,state
+Russia,Bangladesh,2016,155,state
+Russia,Bangladesh,2017,96,state
+Russia,Bangladesh,2019,36,state
+Russia,Angola,2000,58,state
+Russia,Angola,2001,77,state
+Russia,Angola,2002,18,state
+Russia,Angola,2015,29,state
+Russia,Angola,2016,100,state
+Russia,Angola,2017,63,state
+Russia,Angola,2018,188,state
+Russia,Angola,2019,125,state
+Russia,Afghanistan,2002,34,state
+Russia,Afghanistan,2005,15,state
+Russia,Afghanistan,2009,29,state
+Russia,Afghanistan,2010,73,state
+Russia,Afghanistan,2011,83,state
+Russia,Afghanistan,2012,87,state
+Russia,Afghanistan,2013,87,state
+Russia,Afghanistan,2014,218,state
+Russia,Armenia,2004,68,state
+Russia,Armenia,2009,46,state
+Russia,Armenia,2010,46,state
+Russia,Armenia,2011,2,state
+Russia,Armenia,2013,52,state
+Russia,Armenia,2016,112,state
+Russia,Armenia,2017,22,state
+Russia,Armenia,2019,228,state
+Russia,Armenia,2022,29,state
+Russia,Greece,2000,299,state
+Russia,Greece,2001,136,state
+Russia,Greece,2002,47,state
+Russia,Greece,2003,20,state
+Russia,Greece,2004,22,state
+Russia,Greece,2005,63,state
+Russia,Greece,2019,1,state
+Russia,Turkmenistan,2009,38,state
+Russia,Turkmenistan,2010,32,state
+Russia,Turkmenistan,2011,136,state
+Russia,Turkmenistan,2012,56,state
+Russia,Turkmenistan,2013,13,state
+Russia,Turkmenistan,2014,17,state
+Russia,Turkmenistan,2015,51,state
+Russia,Turkmenistan,2016,36,state
+Russia,Turkmenistan,2021,2,state
+Russia,Turkiye,2009,16,state
+Russia,Turkiye,2010,16,state
+Russia,Turkiye,2019,280,state
+Russia,Turkiye,2020,32,state
+Russia,Turkiye,2021,31,state
+Russia,Serbia,2000,1,state
+Russia,Serbia,2016,15,state
+Russia,Serbia,2017,65,state
+Russia,Serbia,2019,71,state
+Russia,Serbia,2020,140,state
+Russia,Serbia,2021,62,state
+Russia,Serbia,2025,5,state
+Russia,Jordan,2001,8,state
+Russia,Jordan,2009,60,state
+Russia,Jordan,2010,80,state
+Russia,Jordan,2011,40,state
+Russia,Jordan,2012,44,state
+Russia,Jordan,2018,56,state
+Russia,Jordan,2019,56,state
+Russia,Cyprus,2001,174,state
+Russia,Cyprus,2002,65,state
+Russia,Cyprus,2006,22,state
+Russia,Cyprus,2010,43,state
+Russia,Cyprus,2011,22,state
+Russia,Cyprus,2012,6,state
+Russia,Nigeria,2000,36,state
+Russia,Nigeria,2001,1,state
+Russia,Nigeria,2002,2,state
+Russia,Nigeria,2003,29,state
+Russia,Nigeria,2014,58,state
+Russia,Nigeria,2015,90,state
+Russia,Nigeria,2017,24,state
+Russia,Nigeria,2018,24,state
+Russia,Nigeria,2019,12,state
+Russia,Nigeria,2020,15,state
+Russia,Nigeria,2021,7,state
+Russia,Mongolia,2008,15,state
+Russia,Mongolia,2010,64,state
+Russia,Mongolia,2011,3,state
+Russia,Mongolia,2012,78,state
+Russia,Mongolia,2015,73,state
+Russia,Mongolia,2019,17,state
+Russia,Mongolia,2021,25,state
+Russia,South Korea,2000,29,state
+Russia,South Korea,2003,10,state
+Russia,South Korea,2004,32,state
+Russia,South Korea,2005,87,state
+Russia,South Korea,2006,103,state
+Russia,Czechia,2003,60,state
+Russia,Czechia,2005,176,state
+Russia,Czechia,2006,26,state
+Russia,House of Representatives (Libya)*,2020,188,non_state
+Russia,House of Representatives (Libya)*,2021,5,non_state
+Russia,House of Representatives (Libya)*,2022,5,non_state
+Russia,House of Representatives (Libya)*,2024,5,non_state
+Russia,House of Representatives (Libya)*,2025,56,non_state
+Russia,North Korea,2000,63,state
+Russia,North Korea,2001,73,state
+Russia,North Korea,2002,54,state
+Russia,North Korea,2003,35,state
+Russia,North Korea,2004,8,state
+Russia,North Korea,2005,5,state
+Russia,North Korea,2006,5,state
+Russia,North Korea,2007,5,state
+Russia,North Korea,2008,5,state
+Russia,North Korea,2009,4,state
+Russia,North Korea,2010,1,state
+Russia,Peru,2001,7,state
+Russia,Peru,2009,12,state
+Russia,Peru,2011,62,state
+Russia,Peru,2014,58,state
+Russia,Peru,2015,94,state
+Russia,Peru,2016,22,state
+Russia,Northern Alliance (Afghanistan)*,2000,20,non_state
+Russia,Northern Alliance (Afghanistan)*,2001,210,non_state
+Russia,Uzbekistan,2001,8,state
+Russia,Uzbekistan,2002,9,state
+Russia,Uzbekistan,2010,30,state
+Russia,Uzbekistan,2017,5,state
+Russia,Uzbekistan,2018,6,state
+Russia,Uzbekistan,2019,49,state
+Russia,Uzbekistan,2020,92,state
+Russia,Uzbekistan,2021,7,state
+Russia,Brazil,2010,77,state
+Russia,Brazil,2011,18,state
+Russia,Brazil,2012,36,state
+Russia,Brazil,2014,35,state
+Russia,Brazil,2015,6,state
+Russia,Brazil,2016,5,state
+Russia,Mali,2017,23,state
+Russia,Mali,2019,12,state
+Russia,Mali,2020,12,state
+Russia,Mali,2021,29,state
+Russia,Mali,2022,41,state
+Russia,Mali,2023,18,state
+Russia,Mali,2024,1,state
+Russia,Mali,2025,28,state
+Russia,Morocco,2001,6,state
+Russia,Morocco,2005,69,state
+Russia,Morocco,2006,27,state
+Russia,Morocco,2007,27,state
+Russia,Morocco,2008,27,state
+Russia,Kuwait,2010,38,state
+Russia,Kuwait,2011,68,state
+Russia,Kuwait,2015,50,state
+Russia,Laos,2000,7,state
+Russia,Laos,2003,0,state
+Russia,Laos,2005,4,state
+Russia,Laos,2011,15,state
+Russia,Laos,2018,66,state
+Russia,Laos,2019,18,state
+Russia,Laos,2020,17,state
+Russia,Laos,2021,3,state
+Russia,Laos,2024,7,state
+Russia,Nicaragua,2009,15,state
+Russia,Nicaragua,2014,13,state
+Russia,Nicaragua,2015,14,state
+Russia,Nicaragua,2016,86,state
+Russia,Nicaragua,2017,7,state
+Russia,Mexico,2000,65,state
+Russia,Mexico,2002,2,state
+Russia,Mexico,2006,36,state
+Russia,Mexico,2010,7,state
+Russia,Mexico,2012,22,state
+Russia,Eritrea,2001,57,state
+Russia,Eritrea,2004,70,state
+Russia,Eritrea,2005,3,state
+Russia,Poland,2000,23,state
+Russia,Poland,2001,23,state
+Russia,Poland,2002,8,state
+Russia,Poland,2003,4,state
+Russia,Poland,2004,4,state
+Russia,Poland,2008,20,state
+Russia,Poland,2010,22,state
+Russia,Poland,2011,15,state
+Russia,Colombia,2002,44,state
+Russia,Colombia,2007,29,state
+Russia,Colombia,2009,36,state
+Russia,Rwanda,2000,15,state
+Russia,Rwanda,2014,15,state
+Russia,Rwanda,2015,29,state
+Russia,Rwanda,2021,46,state
+Russia,Libya,2005,1,state
+Russia,Libya,2006,13,state
+Russia,Libya,2007,13,state
+Russia,Libya,2008,13,state
+Russia,Libya,2010,15,state
+Russia,Libya,2013,36,state
+Russia,Tajikistan,2006,13,state
+Russia,Tajikistan,2007,7,state
+Russia,Tajikistan,2009,34,state
+Russia,Tajikistan,2016,7,state
+Russia,Tajikistan,2017,19,state
+Russia,Tajikistan,2018,1,state
+Russia,Tajikistan,2019,3,state
+Russia,Tajikistan,2022,3,state
+Russia,South Sudan,2011,65,state
+Russia,South Sudan,2015,18,state
+Russia,South Sudan,2016,4,state
+Russia,Sri Lanka,2000,4,state
+Russia,Sri Lanka,2001,58,state
+Russia,Sri Lanka,2013,22,state
+Russia,Thailand,2008,3,state
+Russia,Thailand,2011,22,state
+Russia,Thailand,2015,15,state
+Russia,Thailand,2018,15,state
+Russia,Thailand,2021,22,state
+Russia,Thailand,2022,4,state
+Russia,Croatia,2007,15,state
+Russia,Croatia,2008,58,state
+Russia,Kyrgyzstan,2003,10,state
+Russia,Kyrgyzstan,2005,3,state
+Russia,Kyrgyzstan,2015,4,state
+Russia,Kyrgyzstan,2016,8,state
+Russia,Kyrgyzstan,2017,12,state
+Russia,Kyrgyzstan,2018,1,state
+Russia,Kyrgyzstan,2019,15,state
+Russia,Kyrgyzstan,2023,10,state
+Russia,NATO**,2006,58,int_org
+Russia,Ghana,2004,29,state
+Russia,Ghana,2013,29,state
+Russia,Hungary,2004,51,state
+Russia,Hungary,2014,7,state
+Russia,South Africa,2014,50,state
+Russia,Togo,2022,49,state
+Russia,Cameroon,2013,7,state
+Russia,Cameroon,2014,29,state
+Russia,Cameroon,2016,11,state
+Russia,Slovakia,2002,29,state
+Russia,Slovakia,2004,1,state
+Russia,Slovakia,2009,6,state
+Russia,Slovakia,2010,6,state
+Russia,Qatar,2018,20,state
+Russia,Qatar,2019,20,state
+Russia,Slovenia,2003,0,state
+Russia,Slovenia,2010,34,state
+Russia,Congo,2003,3,state
+Russia,Congo,2013,30,state
+Russia,Congo,2021,1,state
+Russia,Senegal,2005,15,state
+Russia,Senegal,2007,12,state
+Russia,Senegal,2015,7,state
+Russia,Bahrain,2016,10,state
+Russia,Bahrain,2018,21,state
+Russia,Kenya,2011,22,state
+Russia,Kenya,2012,7,state
+Russia,Burkina Faso,2005,12,state
+Russia,Burkina Faso,2012,2,state
+Russia,Burkina Faso,2018,15,state
+Russia,Ukraine Rebels*,2014,24,non_state
+Russia,United Nations**,2000,22,int_org
+Russia,Chad,2006,15,state
+Russia,Chad,2010,7,state
+Russia,Nepal,2004,7,state
+Russia,Nepal,2015,15,state
+Russia,Niger,2008,7,state
+Russia,Niger,2020,15,state
+Russia,Palestine,2007,2,state
+Russia,Palestine,2009,15,state
+Russia,Palestine,2010,5,state
+Russia,Zambia,2015,15,state
+Russia,Zambia,2019,5,state
+Russia,Ecuador,2008,2,state
+Russia,Ecuador,2009,2,state
+Russia,Ecuador,2011,15,state
+Russia,United States,2012,17,state
+Russia,Argentina,2011,15,state
+Russia,Equatorial Guinea,2006,7,state
+Russia,Equatorial Guinea,2018,7,state
+Russia,Central African Republic,2020,1,state
+Russia,Central African Republic,2022,2,state
+Russia,Central African Republic,2023,9,state
+Russia,Saudi Arabia,2019,12,state
+Russia,Latvia,2004,5,state
+Russia,Latvia,2005,5,state
+Russia,Cuba,2004,8,state
+Russia,Mozambique,2019,7,state
+Russia,DR Congo,2002,7,state
+Russia,Uruguay,2006,7,state
+Russia,Cambodia,2021,6,state
+Russia,Djibouti,2002,3,state
+Russia,United Kingdom,2005,1,state
+Russia,United Kingdom,2006,1,state
+Russia,Gabon,2024,1,state
+Russia,Romania,2000,1,state
+Russia,Guinea,2011,1,state
+Russia,Cote d'Ivoire,2018,0,state
+Iran,Syria,2006,54,state
+Iran,Syria,2008,78,state
+Iran,Syria,2009,97,state
+Iran,Syria,2010,52,state
+Iran,Syria,2011,76,state
+Iran,Syria,2012,34,state
+Iran,Syria,2016,15,state
+Iran,Syria,2017,15,state
+Iran,Russia,2022,33,state
+Iran,Russia,2023,80,state
+Iran,Russia,2024,104,state
+Iran,Russia,2025,80,state
+Iran,Houthi rebels (Yemen)*,2016,8,non_state
+Iran,Houthi rebels (Yemen)*,2017,9,non_state
+Iran,Houthi rebels (Yemen)*,2018,9,non_state
+Iran,Houthi rebels (Yemen)*,2019,9,non_state
+Iran,Houthi rebels (Yemen)*,2020,10,non_state
+Iran,Houthi rebels (Yemen)*,2021,2,non_state
+Iran,Houthi rebels (Yemen)*,2022,15,non_state
+Iran,Houthi rebels (Yemen)*,2023,19,non_state
+Iran,Houthi rebels (Yemen)*,2024,1,non_state
+Iran,Venezuela,2023,68,state
+Iran,Sudan,2003,9,state
+Iran,Sudan,2005,2,state
+Iran,Sudan,2006,15,state
+Iran,Sudan,2007,2,state
+Iran,Sudan,2008,4,state
+Iran,Sudan,2009,2,state
+Iran,Sudan,2010,2,state
+Iran,Sudan,2011,2,state
+Iran,Sudan,2012,2,state
+Iran,Sudan,2013,2,state
+Iran,Sudan,2014,2,state
+Iran,Sudan,2015,2,state
+Iran,Sudan,2016,2,state
+Iran,Sudan,2023,1,state
+Iran,Iraq,2014,33,state
+Iran,Iraq,2015,9,state
+Iran,Iraq,2020,0,state
+Iran,Hezbollah (Lebanon)*,2000,0,non_state
+Iran,Hezbollah (Lebanon)*,2001,0,non_state
+Iran,Hezbollah (Lebanon)*,2002,9,non_state
+Iran,Hezbollah (Lebanon)*,2003,3,non_state
+Iran,Hezbollah (Lebanon)*,2004,3,non_state
+Iran,Hezbollah (Lebanon)*,2005,3,non_state
+Iran,Hezbollah (Lebanon)*,2006,8,non_state
+Iran,Hezbollah (Lebanon)*,2023,1,non_state
+Iran,Belarus,2024,1,state
+Iran,Tajikistan,2023,0,state
+Iran,Tajikistan,2024,0,state
+Iran,Tajikistan,2025,0,state
+Iran,Ethiopia,2021,0,state
+North Korea,Russia,2023,9,state
+North Korea,Russia,2024,211,state
+North Korea,Russia,2025,44,state
+North Korea,Iran,2002,116,state
+North Korea,Iran,2003,114,state
+North Korea,Iran,2004,27,state
+North Korea,Syria,2000,40,state
+North Korea,Syria,2001,15,state
+North Korea,Syria,2002,15,state
+North Korea,Syria,2003,15,state
+North Korea,Syria,2004,15,state
+North Korea,Syria,2005,15,state
+North Korea,Syria,2006,15,state
+North Korea,Syria,2007,15,state
+North Korea,Syria,2008,15,state
+North Korea,Syria,2009,15,state
+North Korea,Yemen,2001,38,state
+North Korea,Yemen,2002,19,state
+North Korea,Myanmar,2009,8,state
+North Korea,Myanmar,2010,7,state
+North Korea,Hamas (Palestine)*,2014,0,non_state
+North Korea,PRC (Israel/Palestine)*,2014,0,non_state

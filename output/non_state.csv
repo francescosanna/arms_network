@@ -1,0 +1,12 @@
+from,to,actor_type,tiv_total
+China,African Union**,int_org,13
+China,United Wa State (Myanmar)*,non_state,2
+Iran,Hezbollah (Lebanon)*,non_state,27
+Iran,Houthi rebels (Yemen)*,non_state,82
+North Korea,Hamas (Palestine)*,non_state,0
+North Korea,PRC (Israel/Palestine)*,non_state,0
+Russia,House of Representatives (Libya)*,non_state,259
+Russia,NATO**,int_org,58
+Russia,Northern Alliance (Afghanistan)*,non_state,230
+Russia,Ukraine Rebels*,non_state,24
+Russia,United Nations**,int_org,22
