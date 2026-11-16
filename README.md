@@ -39,7 +39,7 @@ Arms transfers are one type of tie, not cooperation as a whole.
 ![Annual flows](output/annual_flows.png)
 *Russia's supplies to the group were falling long before 2014. In 2024 and 2025, Russia received more major arms from the group than it sent.*
 
-- **Sparse:** At most 5 of the 12 possible edges exist in any year.
+- **Density:** At most 5 of the 12 possible edges exist in any year.
 - **Decline before Crimea:** Russia → China fell from 3,076 TIV in 2005 to 653 in 2010. It rose again after 2014, peaking at 1,906 in 2018, then fell to 25 in 2025.
 - **One hub:** After 2015, China, Iran and North Korea record no major arms transfers among themselves. The last is China → Iran in 2015 (7 TIV).
 - **Crossover in 2024:** Within the group, 2024 is the first year in which Russia received more (315 TIV) than it sent (72 TIV). The same holds in 2025 (129 against 25). Over 2022–2025 as a whole, Russia still sent the group more (944 TIV) than it received (577 TIV), because of its deliveries to China in 2022 and 2023.
@@ -53,7 +53,7 @@ Arms transfers are one type of tie, not cooperation as a whole.
 | 2014–2021 | 4 | 0.333 | 0.5 |
 | 2022–2025 | 5 | 0.417 | 0.8 |
 
-- **Density barely changes, direction does:** In 2000–2013, all of Russia's edges run outwards, to China, Iran and North Korea. In 2022–2025, Iran and North Korea both supply Russia.
+- **Direction:** In 2000–2013, all of Russia's edges run outwards, to China, Iran and North Korea. In 2022–2025, Iran and North Korea both supply Russia.
 - **Asymmetry:** Most pairs are almost entirely one-way. In 2014–2021, Russia sent China about 375 times more than China sent back (937 against 2.5 TIV per year). The least one-sided pair is Iran → Russia in 2022–2025 (0.825): about 74 TIV per year against 16.
 - **Dependence:** In 2022–2025, Iran supplied 51.4% of Russia's recorded imports, North Korea 45.7% and China 2.8%. In the other direction, Russia took all of North Korea's recorded exports and about three-quarters of Iran's. These are shares of small totals: Russia's recorded imports in these four years were 578 TIV, against 8,016 TIV of exports.
 - **Missing edges:** Four edges never appear in 2000–2025: China → North Korea, North Korea → China, Iran → China and Iran → North Korea.
@@ -71,11 +71,11 @@ Which edges exist does not depend on where the breaks are. It does depend on ver
 
 ## 6. Limits
 
-- **Major weapons only:** No small arms, no ammunition and no artillery under 100 mm, so North Korean shells to Russia are missing, and support to armed groups (Hezbollah, the Houthis) is badly understated.
+- **Major weapons only:** No small arms, no ammunition and no artillery under 100 mm, so North Korean shells to Russia are missing, and support to armed groups (Hezbollah, the Houthis) is understated.
 - **Secrecy:** North Korean and Iranian flows are secret or under-recorded.
 - **One type of tie:** Arms transfers are not cooperation as a whole.
-- **Four-state subnetwork:** Pair-level data cover only flows from the four, not the global arms network.
-- **Deliveries, not decisions:** Deliveries lag decisions, so the period breaks are approximate (checked in section 5), and yearly peaks cannot be tied to the politics of that year. The data show what moved and when, not why.
+- **Four-state subgraph:** Pair-level data cover only flows from the four, not the global arms network.
+- **Deliveries, not decisions:** Deliveries lag decisions, so the period breaks are approximate (checked in section 5), and yearly peaks cannot be tied to the politics of that year.
 - **Two years:** The crossover rests on 2024 and 2025 only.
 - **Reciprocity ignores weights:** Part of its rise rests on very small China → Russia flows.
 - **Small volumes:** Iran's 297 TIV to Russia in 2022–2025 is less than a tenth of what Russia sent India in the same years (3,744).
